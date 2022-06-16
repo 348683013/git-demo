@@ -3,25 +3,5 @@ hello world, hello git 333333
 hello world, hello git 444444
 hello world, hello git 555555
 hello world, hello git 666666
-hello world, hello git
-hello world, hello git
-hello world, hello git
-hello world, hello git
-hello world, hello git
-hello world, hello git
-hello world, hello git
-hello world, hello git
-hello world, hello git
-hello world, hello git master test
-hello world, hello git hot-fix test
-hello world, hello git
-hello world, hello git second merge test
-hello world, hello git hot-fix second merge test
-hello world, hello git
-hello world, hello git hot-fix second merge test
-hello world, hello git hot-fix second merge test
-hello world, hello git 
-hello world, hello git
-hello world, hello git hot-fix third merge test
 
 11111111111111111111111111111111111111111111111 the modification in github
