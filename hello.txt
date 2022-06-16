@@ -14,3 +14,5 @@ hello world, hello git
 hello world, hello git
 hello world, hello git
 hello world, hello git hot-fix test
+hello world, hello git
+hello world, hello git hot-fix second merge test
